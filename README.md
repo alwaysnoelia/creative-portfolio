@@ -18,7 +18,7 @@ I plan on adding more dynamic elements using **React**, such as a navigation bar
 
 ## How to Run the Project Locally
 
-I am working to deploy the website on github pages. In the meantime, if you would like to explore the website locally, follow these steps:
+Currently, I am working to deploy the website on github pages. In the meantime, if you would like to explore the website locally, follow these steps:
 
 1. Clone the repository.
 2. Navigate to the project folder and install dependencies using `npm install`.
@@ -26,5 +26,5 @@ I am working to deploy the website on github pages. In the meantime, if you woul
 4. Access the website at `http://localhost:3000` in your web browser.
 
 
-**Best regards,**
+Thank you for checking this out!
 **Maria Noelia Herne**
