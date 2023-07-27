@@ -1,29 +1,31 @@
-Personal Website - Maria Noelia Herne
+# Personal Website - Maria Noelia Herne
 
-Welcome to my personal website! This simple website is a reflection of my passion for photography and podcasting, combined with my technical skills in building web applications using Tailwind CSS, HTML, and CSS.
 
-Technologies Used
+**Welcome to my personal website!** This simple website is a reflection of my passion for **photography** and **podcasting**, combined with my technical skills in building web applications using **Tailwind CSS**, **HTML**, and **CSS**.
 
-Tailwind CSS: The website's design is powered by Tailwind CSS, enabling me to quickly style and customize components for a polished look.
+## Technologies Used
 
-Showcase of My Work
+- **Tailwind CSS**: The website's design is powered by Tailwind CSS, enabling me to quickly style and customize components for a polished look.
 
-Photography: My portfolio showcases captivating moments captured through the lens, evoking emotions and stories through each image.
+## Showcase of My Work
 
-Podcasting: Explore my podcasting section, where I share engaging content and conversations with fascinating guests on diverse topics.
+1. **Photography**: My portfolio showcases a series of portraits that highlight the subject's personality.
 
-Future Iterations:
+2. **Podcasting**: Explore my podcasting section, where I share engaging content and conversations with leaders in tech.
 
-I plan on adding more dynamic elements using React, such as a navigation bar that scrolls to sections of the website. I also will make the website mobile-friendly with features such as a carousel for the photos in the portfolio.
+## Future Iterations:
 
-How to Run the Project Locally
-To explore the website locally, follow these steps:
+I plan on adding more dynamic elements using **React**, such as a navigation bar that scrolls to sections of the website. I also will make the website mobile-friendly with features such as a carousel for the photos in the portfolio.
 
-Clone the repository.
-Navigate to the project folder and install dependencies using npm install.
-Run the development server with npm start.
-Access the website at http://localhost:3000 in your web browser.
-Feel free to reach out to me for any inquiries or collaboration opportunities. Thank you for visiting my website!
+## How to Run the Project Locally
 
-Best regards,
-Maria Noelia Herne
+I am working to deploy the website. In the meantime, if you would like to explore the website locally, follow these steps:
+
+1. Clone the repository.
+2. Navigate to the project folder and install dependencies using `npm install`.
+3. Run the development server with `npm start`.
+4. Access the website at `http://localhost:3000` in your web browser.
+
+
+**Best regards,**
+**Maria Noelia Herne**
