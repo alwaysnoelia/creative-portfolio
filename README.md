@@ -25,6 +25,6 @@ Currently, I am working to deploy the website on github pages. In the meantime, 
 3. Run the development server with `npm start`.
 4. Access the website at `http://localhost:3000` in your web browser.
 
+**All the best,**
 
-Thank you for checking this out!
-**Maria Noelia Herne**
+**Maria**
