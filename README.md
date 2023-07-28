@@ -1,7 +1,6 @@
 # Maria Noelia Herne
 
-**Welcome to my personal website!** This simple website is a reflection of my passion for **photography** and **podcasting**, combined with my technical skills in building web applications using **Tailwind CSS**, **HTML**, and **CSS**.
-
+**Welcome to my personal website!** This simple website is a reflection of my passion for **photography** and **podcasting**, combined with my technical skills in building web applications using **Tailwind CSS** and HTML
 ## Technologies Used
 
 - **Tailwind CSS**: The website's design is powered by Tailwind CSS, enabling me to quickly style and customize components for a polished look.
